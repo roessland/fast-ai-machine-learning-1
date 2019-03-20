@@ -38,6 +38,11 @@ https://www.kaggle.com/c/bluebook-for-bulldozers/
 
 https://www.kaggle.com/c/titanic/
 
+### favorita-grocery-sales-forecasting 
+
+
+
+https://www.kaggle.com/c/favorita-grocery-sales-forecasting/
 
 ## Notebooks
 
